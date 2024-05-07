@@ -1,0 +1,60 @@
+/* СТИЛИ ПЕРВОГО ЗАДАНИЯ | I часть */
+/* .trackbar {
+  margin: 0 auto;
+  width: 500px;
+  height: 30px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.track-line {
+  width: 500px;
+  height: 8px;
+  background-color: rgb(192, 192, 192);
+  position: relative;
+  z-index: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.track-button {
+  width: 24px;
+  height: 24px;
+  background-color: rgb(147, 147, 255);
+  position: absolute;
+  z-index: 1;
+  bottom: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+} */
+
+/* СТИЛИ ВТОРОГО ЗАДАНИЯ | I часть */
+
+/* .gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.gallery-content {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.current-img {
+  display: block;
+}
+.buttons {
+  display: flex;
+  align-items: center;
+}
+.arrow {
+  font-size: 24px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0 10px;
+} */
